@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "collection_name": {
+    "collection_url": "https://example.com/new-collection.json",
+    "collection_img": "https://example.com/new-image.jpg"
+  }
+}
